@@ -45,6 +45,7 @@
 			"name": "Psychic Duelist",
 			"source": "DA",
 			"page": 203,
+			"rarity": "rare",
 			"entries": [
 				"The mental landscape of the psychic duel rises to meet your steps and reshapes at your touch. You understand the binary mindscape links two minds, making its foundation only as strong as the wills of those involved. Two psychic castles in a siege\u2014patch every loose brick in your walls and single out every flaw in your foe's defenses."
 			],
@@ -54,6 +55,7 @@
 			"name": "Chronoskimmer",
 			"source": "DA",
 			"page": 186,
+			"rarity": "rare",
 			"entries": [
 				"The flow of time is an unstoppable force. Most are carried downstream inexorably, like a leaf floating on a river. You, however, somehow fell out of the flow of time, if only for an instant, but in doing so gained a perspective that few others have.",
 				"Now you stand on the banks of the river, watching the flow, choosing where to dive in, or even defying the current, at least for a short while, as you skim its surface and skip from moment to moment. As a chronoskimmer, time is yours to exploit.",
@@ -65,6 +67,7 @@
 			"name": "Time Mage",
 			"source": "DA",
 			"page": 184,
+			"rarity": "uncommon",
 			"entries": [
 				"Magic leaves its brand on those who practice it. The veteran pyromancer bears the scorch marks of lessons learned. The archdruid grows to resemble plants or animals in their domain or grove. The professional reanimator can never quite cover up the stench of their grim work.",
 				"The mark left by the practice of time magic is less obvious but no less indelible. With other disciplines, the marks of experience accumulate as magic is learned, creating an equilibrium of sorts between the exercise of power and the necessary consequences. Time magic suffers no such limitations of cause and effect. Distortions and anachronistic thoughts echo back throughout a time mage's entire life, providing a nonlinear perspective that others can find distracting or even alien. The threat of creating a paradox is ever looming. Many a reckless time mage has inadvertently erased themselves from existence, glimpsed a future they now have no choice but to enact, or attracted the attentions of temporal creatures, such as iriis or siktemporas.",
@@ -82,6 +85,7 @@
 			"name": "Curse Maelstrom",
 			"source": "DA",
 			"page": 168,
+			"rarity": "rare",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -101,6 +105,7 @@
 			"name": "Pactbinder",
 			"source": "DA",
 			"page": 166,
+			"rarity": "uncommon",
 			"entries": [
 				"Some people feel that the universe is a constant struggle. Good against evil, law against chaos, civilization against nature, life against death against undeath. But why fight what you can't change? You prefer to bargain.",
 				"As a pactbinder, you make deals with strange entities, otherworldly beings, and all sorts of multiversal denizens, amiable and unapproachable alike. Over the course of your many negotiations, you've learned something important: while such beings always seek a bargain tilted in their own favor, sometimes your definition of value differs enough from theirs that you can still come out ahead. In fact, sometimes, those who don't understand pacts like you do might mistake the payment for the benefit, or vice versa. Perhaps an ancient being of nightmare demanded to consume something you sought to be rid of, like a painful memory or a negative personality trait, priding itself on how it was taking something personal from you. Little did it know, you let it win on haggling your end of the deal. Of course, this practice isn't without its own risks, as who knows what you might become without that part of you.",
@@ -112,6 +117,7 @@
 			"name": "Living Vessel",
 			"source": "DA",
 			"page": 140,
+			"rarity": "rare",
 			"entries": [
 				"With the dawning of a new era comes the need for a new seat of power, and what better way to show your coming master your devotion than by sacrificing your entire being for their use? You presented yourself before their altar and they answered your call, flooding your body with their power and granting you the gift of their original form. Or maybe you were abducted in the dark, on a night that the moon refused to shine, when you were taken to a profane location where a mysterious cult bound you to their master against your will. Now you have powers you didn't before and you have new features that scare (and maybe, in a small dark part of your heart, thrill) you.",
 				"You might have even become a living vessel through a strange bargain. For instance, perhaps at the brink of death, you received an offer from an entity to spare your life in exchange for inhabiting you. Or you might have offered yourself to the entity in exchange for saving a loved one, for riches, or to fulfill a lifelong dream.",
@@ -124,6 +130,7 @@
 			"name": "Alter Ego",
 			"source": "DA",
 			"page": 126,
+			"rarity": "uncommon",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -217,6 +224,7 @@
 			"name": "Aldori Duelist",
 			"source": "LOWG",
 			"page": 35,
+			"rarity": "uncommon",
 			"entries": [
 				"You have sworn the Aldori swordpact and study the art of Aldori dueling, a famed school of bladecraft which has been passed down for over a millennium from the teachings of Baron Sirian Aldori. One day, you hope to demonstrate your skill at swordplay in order to become acknowledged as a true swordlord."
 			],
@@ -229,6 +237,7 @@
 			"name": "Animal Trainer",
 			"source": "EC2",
 			"page": 76,
+			"rarity": "uncommon",
 			"entries": [
 				"You have befriended an animal to serve as an able assistant and loyal guardian."
 			],
@@ -273,6 +282,7 @@
 			"name": "Artillerist",
 			"source": "G&G",
 			"page": 128,
+			"rarity": "uncommon",
 			"entries": [
 				{
 					"type": "quote",
@@ -324,6 +334,7 @@
 			"name": "Alkenstar Agent",
 			"source": "OoA1",
 			"page": 78,
+			"rarity": "uncommon",
 			"entries": [
 				"Outwardly dashing outlaws or silent, deadly bravos, these masters of combat and culture must hone a variety of skills to serve as secret agents and informants for the leader of Alkenstar, Grand Duchess Trietta Ricia."
 			],
@@ -341,6 +352,7 @@
 			"name": "Clockwork Reanimator",
 			"source": "OoA3",
 			"page": 78,
+			"rarity": "rare",
 			"entries": [
 				"You have unlocked the secret connections between necromancy and clockwork locomotion, giving you the unholy power to reanimate corpses. These minions shuffle forth with the mindless motions of the unliving and are little more than puppets under your control.",
 				"Similarly, via careful tinkering and anatomical study, you learned how to make a powerful necromechanical ally. Finally, your technological prowess is such that you can use your innovations to force even powerful, free-willed undead to obey you.",
@@ -391,6 +403,7 @@
 			"name": "Beast Gunner",
 			"source": "G&G",
 			"page": 130,
+			"rarity": "uncommon",
 			"entries": [
 				"The art of creating the weapons most commonly referred to as \"beast guns\" is truly ancient, with the first iterations of the weapons created on the continent of Arcadia well over 10,000 years ago. This means that beast guns predate all other forms of firearm crafting in Arcadia, even the legendary star guns, whose secrets have been lost to the ages. The tradition of designing beast guns has persisted throughout Arcadia well into the modern era, though it has become increasingly rare as the proliferation of classic firearms and the prestige associated with star guns has allowed more people access to equivalent destructive power without the intense requirements behind crafting a beast gun. However, beast gunners remain virtually unknown outside of Arcadia.",
 				"The art of bonding to a beast gun and gaining the full magic of a beast gunner is an extended ritual with multiple steps, beginning with the hunt. A person seeking to bond to a beast gun typically does so with a brand new weapon made after they hunt down the creature themselves. This involves telling the story of the hunt, the beast, and the weapon created from the hunted creature. Finally, the weapon is carefully modified and tailored to ensure a proper bond between the beast gun and the prospective beast gunner. However, it's also possible to bond to an heirloom beast gun passed down through the generations by adding symbolic fresh components from the same kind of creature, after performing the same ritual hunt necessary to forge a new weapon with the intent of establishing a bond.",
@@ -450,6 +463,7 @@
 			"name": "Bellflower Tiller",
 			"source": "AoA3",
 			"page": 75,
+			"rarity": "uncommon",
 			"entries": [
 				"Bellflower tillers handle most of the ground-level efforts of freeing slaves and escorting them to safety. They use farming-related code words to hide their work: a tiller's freed slaves are her \"crop,\" which she moves along secretive paths termed \"rows,\" taking shelter in secret hideouts referred to as \"barns.\""
 			],
@@ -494,6 +508,7 @@
 			"name": "Bright Lion",
 			"source": "LOL",
 			"page": 101,
+			"rarity": "uncommon",
 			"entries": [
 				"You are one of the Bright Lions, part revolutionary warrior, part undercover spy."
 			],
@@ -503,6 +518,7 @@
 			"name": "Bullet Dancer",
 			"source": "G&G",
 			"page": 132,
+			"rarity": "uncommon",
 			"entries": [
 				"While most monastic orders and traditional fighting schools shun firearms as loud and unreliable technology for unskilled conscripts, you fuse flourishing feints and ricocheting gunplay into a whirling ballet of bullets. As a bullet dancer, you might become the target of brash duelists and gladiators looking to make a name for themselves. But you tend to welcome the attention and might have proven your reputation while dancing your deadly ballet in tournaments from Tymon to Goka. You've found your fluid motions and explosive attacks to be surefire crowd-pleasers, even as they serve to confound and shock your foes."
 			],
@@ -524,6 +540,7 @@
 			"name": "Butterfly Blade",
 			"source": "FRP1",
 			"page": 78,
+			"rarity": "uncommon",
 			"entries": [
 				"You've trained in one of Goka's oldest traditions of espionage, intimidation, and combat mastery. You use your skills to learn about your enemies and cut them down with your mastery of the butterfly sword."
 			],
@@ -557,6 +574,7 @@
 			"name": "Cathartic Mage",
 			"source": "SoM",
 			"page": 194,
+			"rarity": "uncommon",
 			"entries": [
 				"Emotions are powerful, and you can tap into that power to enhance your magic for a time. You learn to harness a particular emotional state under the right conditions, but be warned: emotions are volatile and destructive if left unchecked. The experience often leaves you reeling from the unhindered emotion, requiring a rest or distraction before tapping into it again.",
 				{
@@ -863,6 +881,7 @@
 			"name": "Crystal Keeper",
 			"source": "AoA4",
 			"page": 74,
+			"rarity": "rare",
 			"entries": [
 				"In the era before Earthfall, the elven people of Golarion exhibited a wide range of mastery over magic. A sect of elves who venerated the goddess Yuelral first developed the techniques of the crystal keeper, but this tradition has since been long forgotten by most of the world. There are those who still remember, though\u2014PCs can gain access to the crystal keeper archetype from the tragic figure that haunts Jewelgate waystation in \"Fires of the Haunted City.\""
 			],
@@ -902,6 +921,7 @@
 			"name": "Dragon Disciple",
 			"source": "APG",
 			"page": 168,
+			"rarity": "uncommon",
 			"entries": [
 				"The rippling waves of fear, the rustling of thick scales, and the beat of immense wings signal the arrival of a great dragon. The awe-inspiring presence of these creatures makes them worthy of reverence\u2014or even outright worship. Dragon disciples dedicate themselves to becoming like these great beasts, with each disciple striving to typify one variety of dragon. {@class Sorcerer||Sorcerers of draconic blood|Draconic}, {@class Barbarian||barbarians with the dragon instinct|dragon}, and many {@ancestry kobold|apg|kobolds} with close ties to their draconic predecessors become dragon disciples, but anyone who has encountered one of these terrifying creatures might follow this path.",
 				"As a dragon disciple, you study and learn from the example of dragons, but that doesn't necessarily mean that you admire the dragons you emulate. While most dragon disciples do indeed revere their chosen dragon, countless tales are told of dragon disciples born of great personal tragedy at the hands of boundless draconic fury. These disciples have transformed themselves into what they despise in order to gain the power to destroy their draconic tormentor and at long last earn their revenge.",
@@ -924,6 +944,7 @@
 			"name": "Drow Shootist",
 			"source": "AV3",
 			"page": 77,
+			"rarity": "uncommon",
 			"entries": [
 				"Some drow take skill with the hand crossbow to new heights. You've learned the secrets of these fabled drow shootists. With fearlessness and swagger, you can accomplish amazing deeds with hand crossbows."
 			],
@@ -991,6 +1012,7 @@
 			"name": "Edgewatch Detective",
 			"source": "AoE1",
 			"page": 79,
+			"rarity": "uncommon",
 			"entries": [
 				"You're a specially trained detective for the Edgewatch guard precinct in Absalom."
 			],
@@ -1027,6 +1049,7 @@
 			"name": "Eldritch Researcher",
 			"source": "AV2",
 			"page": 76,
+			"rarity": "uncommon",
 			"entries": [
 				"An eager student of occult lore, you enjoy reading rare or forgotten tomes with ancient rituals and hidden secrets. You connect disparate facts to unlock deeper mysteries and uncover the truths of the universe, and you zealously hoard the knowledge your painstaking research produces. Aberrations fascinate you for many reasons, not the least of which is because their anatomy is wholly alien and yet, to the insightful, eminently sensible.",
 				"You've been particularly enlightened by the accumulated lore in Thresholds of Truth, and you know Zarmavdian was a kindred soul in occult research. With this book in hand, you feel like you stand at the doorway to unprecedented occult discoveries.",
@@ -1114,6 +1137,7 @@
 			"name": "Firebrand Braggart",
 			"source": "LOCG",
 			"page": 74,
+			"rarity": "uncommon",
 			"entries": [
 				"Many Firebrands travel the Inner Sea region drawing attention to themselves, making great shows of their exploits, and proclaiming their great deeds."
 			],
@@ -1126,6 +1150,7 @@
 			"name": "Firework Technician",
 			"source": "G&G",
 			"page": 134,
+			"rarity": "uncommon",
 			"entries": [
 				"The brilliant display of cascading lights and flickering aerial flowers, the thunderous boom, the sizzling crackle, and piercing screech\u2014these are the stock and trade of your craft. You know how to perfectly pair light and sound to create fireworks displays that can amaze children and adults, comfort friends, and even confound your foes.",
 				"As a fireworks technician, you might be an itinerant wanderer, roaming from town to town and developing your craft on your own. In that case, you make a living on the road, selling fireworks to the townsfolk, setting up public displays upon request and receipt of payment, and even tailoring individualized performances to those wealthy or interesting enough to be worthy of receiving their own private show.",
@@ -1236,6 +1261,7 @@
 			"name": "Ghost Eater",
 			"source": "FRP1",
 			"page": 79,
+			"rarity": "uncommon",
 			"entries": [
 				"The warriors of Minata frequently contend with lost spirits of the Taumatan people that haunt their shattered lands to this day. These Minatan warriors, known as ghost eaters around Bonmu, travel the countless islands of Minata and offer their skills to exorcists and priests. When working in such a partnership, ghost eater's main task is to destroy a spirit in order to give their holy comrade time to learn about the individual soul and finally put it to rest."
 			],
@@ -1248,6 +1274,7 @@
 			"name": "Ghost Hunter",
 			"source": "AV1",
 			"page": 81,
+			"rarity": "uncommon",
 			"entries": [
 				"Ghosts have a wide range of capabilities and features\u2014 no two ghosts are exactly alike, as the nature of their abilities depends as much upon who they were in life as on how they died. Haunts, the spectral phenomena remaining in a site of death or powerful emotions, are related to but distinct from ghosts.",
 				"The ghost hunter knows that ghosts and haunts share many features. By focusing on these similarities, they can track down, confront, and defeat all manner of unquiet souls, helping them to find peace and move on to the afterlife."
@@ -1271,6 +1298,7 @@
 			"name": "Golden League Xun",
 			"source": "FRP2",
 			"page": 76,
+			"rarity": "uncommon",
 			"entries": [
 				"You've become a xun, a powerful gang enforcer."
 			],
@@ -1283,6 +1311,7 @@
 			"name": "Golem Grafter",
 			"source": "EC3",
 			"page": 74,
+			"rarity": "uncommon",
 			"entries": [
 				"You have replaced a portion of your body with artifice of the kind used to create golems, fortifying your flesh with the unyielding might of magical constructs."
 			],
@@ -1295,6 +1324,7 @@
 			"name": "Gray Gardener",
 			"source": "NGD",
 			"page": 64,
+			"rarity": "uncommon",
 			"entries": [
 				"The Gray Gardeners are the remorseless executioners of Galt. Prior to the events of the adventure, the Gray Gardeners are at best sinister (when not actively pursuing evil) as a malevolent monster controls their organization. After the events of Night of the Gray Death, the organization is broken\u2014leadership is in disarray while the rank-and-file members labor to enforce laws and recapture escaped criminals. The Gray Gardeners still command the respect of Galt's people, however, as their brutal reputation is indelibly etched in the public consciousness over the last fifty years.",
 				"The following is suitable for heroes to take after the events of Night of the Gray Death. You might be a member of the old organization who tried to uphold order despite vindictive directives from above, or you might be someone who recently donned a mask to enforce the law in Galt's new age. Either way, as a Gray Gardener you draw power and authority from being masked and have a reputation for dispassionate justice.",
@@ -1328,6 +1358,7 @@
 			"name": "Halcyon Speaker",
 			"source": "LOCG",
 			"page": 104,
+			"rarity": "uncommon",
 			"entries": [
 				"One of Old-Mage Jatembe's central lessons was that magic was magic, no matter what the source. Though the Magaambya seeks to hold true to Jatembe's teachings by aiming to understand magic of all kinds, the mages of the Magaambya have found the most success with magic rooted in the material world. Halcyon speakers are powerful conversants who epitomize the Magaambyan practice of blending arcane and primal magic, seeing both traditions as flowing from the same wellspring."
 			],
@@ -1340,6 +1371,7 @@
 			"name": "Hellknight",
 			"source": "LOCG",
 			"page": 84,
+			"rarity": "uncommon",
 			"entries": [
 				"Hellknights are among the fiercest warriors in the Inner Sea region, as they have emerged from hell-forged trials ready to serve as faceless bastions of law wherever chaos might threaten to rear."
 			],
@@ -1352,6 +1384,7 @@
 			"name": "Hellknight Armiger",
 			"source": "LOWG",
 			"page": 107,
+			"rarity": "uncommon",
 			"entries": [
 				"You have presented yourself to a Hellknight citadel as a candidate to become a fearsome Hellknight. You believe that all who live must be forced to obey law, and you adventure as a test of your loyalty, discipline, and courage. Someday you will take the Hellknight test and battle a devil in single combat to prove your strength and join the Hellknight ranks."
 			],
@@ -1364,6 +1397,7 @@
 			"name": "Hellknight Signifer",
 			"source": "LOCG",
 			"page": 85,
+			"rarity": "uncommon",
 			"entries": [
 				"Signifers are the powerful and enigmatic Hellknight spellcasters who support and sometimes lead other Hellknights on their missions to enforce unwavering law. Formidable in their own right, signifers are trained to be unstoppable forces of order and authority when they stand alongside their martial counterparts."
 			],
@@ -1440,6 +1474,7 @@
 			"name": "Jalmeri Heavenseeker",
 			"source": "AoE2",
 			"page": 78,
+			"rarity": "uncommon",
 			"entries": [
 				"Certain martial artists dedicate themselves to fighting in Jalmeray's Challenge of Sky and Heaven; these individuals devote themselves to the esoteric mysteries of the sky and incorporate these lofty abilities into their martial arts maneuvers. You may have learned these skills from the Houses of Perfection in Jalmeray, or from a practitioner of this style who left Jalmeray bearing its secrets (such as Shristi Melipdra). The Houses of Perfection focus on honing elemental powers, but the Jalmeri heavenseeker isn't limited by the powers of air alone. This style's attacks emulate darting flashes of lightning and the crash of thunder from roiling storm clouds. A true practitioner masters control even over dense matter, causing the air to support its weight or bring it crashing down."
 			],
@@ -1452,6 +1487,7 @@
 			"name": "Juggler",
 			"source": "EC1",
 			"page": 74,
+			"rarity": "uncommon",
 			"entries": [
 				"You're a skilled performer, with impressive balance and coordination that help you greatly in battle."
 			],
@@ -1464,6 +1500,7 @@
 			"name": "Knight Reclaimant",
 			"source": "LOCG",
 			"page": 74,
+			"rarity": "uncommon",
 			"entries": [
 				"Knights reclaimant spend much of their time amid the horrors of the Gravelands, rescuing civilians that remain and striking back against the Whispering Tyrant's agents. Accomplishing these goals requires the adoption of subtle tactics, with a focus on stealth and survival."
 			],
@@ -1487,6 +1524,7 @@
 			"name": "Knight Vigilant",
 			"source": "LOCG",
 			"page": 94,
+			"rarity": "uncommon",
 			"entries": [
 				"Taking their lead from heroic stories of the Shining Crusade, the knights vigilant stand as a courageous example of morality and honor."
 			],
@@ -1508,6 +1546,7 @@
 			"name": "Lastwall Sentry",
 			"source": "LOWG",
 			"page": 47,
+			"rarity": "uncommon",
 			"entries": [
 				"While the nation of Lastwall is gone, leaving only the horror of the Gravelands behind, you refuse to give up and renounce your oaths. You've renewed your vows, swearing to combat the influence of the Whispering Tyrant wherever it might strike across Golarion."
 			],
@@ -1529,6 +1568,7 @@
 			"name": "Lion Blade",
 			"source": "LOWG",
 			"page": 131,
+			"rarity": "uncommon",
 			"entries": [
 				"You've trained as a spy in service of Taldor, learning secrets of disguise, manipulating crowds, and deceiving various sorts of magic users with ease. You likely dropped out of the Kitharodian Academy, Taldor's premier bardic college, in order to train at one of the Lion Blade's elite Shadow Schools."
 			],
@@ -1541,6 +1581,7 @@
 			"name": "Living Monolith",
 			"source": "LOWG",
 			"page": 59,
+			"rarity": "uncommon",
 			"entries": [
 				"You have delved into ancient sphinx magic to imbue your body and soul with the patience and strength of stone, as you work to create a special magical ka stone to finalize your oaths."
 			],
@@ -1568,6 +1609,7 @@
 			"name": "Magaambyan Attendant",
 			"source": "LOCG",
 			"page": 101,
+			"rarity": "uncommon",
 			"entries": [
 				"Magaambyans attendants have become full members of the Magaambya and begun to learn the secrets of the university. Not all Magaambyan attendants necessarily have this archetype, and this archetype doesn't represent the abilities of all attendants; rather, the archetype represents many of those who have affiliated with a branch and are pursuing conversant rank."
 			],
@@ -1580,6 +1622,7 @@
 			"name": "Magic Warrior",
 			"source": "LOWG",
 			"page": 95,
+			"rarity": "uncommon",
 			"entries": [
 				"You mix magic and martial prowess, following in the tradition of the Ten Magic Warriors of Old-Mage Jatembe."
 			],
@@ -1700,6 +1743,7 @@
 			"name": "Nantambu Chime-Ringer",
 			"source": "SoT2",
 			"page": 79,
+			"rarity": "uncommon",
 			"entries": [
 				"The Chime-Ringers serve as Nantambu's elite town guard, keeping the peace while carrying on ancient traditions of crafting chimes in metal, bamboo, or glass."
 			],
@@ -1712,6 +1756,7 @@
 			"name": "Oozemorph",
 			"source": "Sli",
 			"page": 59,
+			"rarity": "uncommon",
 			"entries": [
 				"You have suffered from the deadly touch of an ooze or other amorphous creature, like a gibbering mouther or a shoggoth, and have come away changed. Alternatively, you might have been exposed to some alchemical accident involving experiments with oozes, such as those performed in the city of Oenopion in Nex. Parts of your body occasionally liquefy and threaten to slough off, and only through force of will can you keep your natural form intact. Your affliction is plainly supernatural in origin and distressingly permanent."
 			],
@@ -1739,6 +1784,7 @@
 			"name": "Overwatch",
 			"source": "G&G",
 			"page": 50,
+			"rarity": "uncommon",
 			"entries": [
 				"With a stalwart mind and sharp eyes, you observe the battlefield as though you and your allies are pieces on a chessboard. By predicting dangers and hazards and offering your insights to your comrades, you win battles through keen observation and teamwork. Whenever there's a threat or opening, you're the first to point it out, and you're ready to help your allies directly when necessary.",
 				"As a group's overwatch, you might let the position go to your head. In such cases, you might think of yourself as the mastermind behind the chessboard and feel detached from your allies, thinking of them as little more than pawns on the field.",
@@ -1753,6 +1799,7 @@
 			"name": "Pathfinder Agent",
 			"source": "LOWG",
 			"page": 23,
+			"rarity": "uncommon",
 			"entries": [
 				"You're a field agent of the globe-trotting Pathfinder Society, sworn to report, explore, and cooperate. You explore the world, gathering artifacts and antiquities, and record your adventures for posterity."
 			],
@@ -1775,6 +1822,7 @@
 			"name": "Pistol Phenom",
 			"source": "G&G",
 			"page": 136,
+			"rarity": "uncommon",
 			"entries": [
 				{
 					"type": "quote",
@@ -1831,6 +1879,7 @@
 			"name": "Provocator",
 			"source": "AoE3",
 			"page": 79,
+			"rarity": "uncommon",
 			"entries": [
 				"The provocator is a gladiator who mixes brilliant performance with mastery of weapons."
 			],
@@ -1872,6 +1921,7 @@
 			"name": "Red Mantis Assassin",
 			"source": "AoE3",
 			"page": 71,
+			"rarity": "uncommon",
 			"entries": [
 				"You are a Red Mantis assassin, inducted by the mantis god and sworn to chase your prey to the end of the world and beyond."
 			],
@@ -1884,6 +1934,7 @@
 			"name": "Ritualist",
 			"source": "APG",
 			"page": 187,
+			"rarity": "uncommon",
 			"entries": [
 				"While some learn the art of ritual casting through rigorous study, other gifted individuals may find that a combination of natural talent and luck gives them surprising skill at performing rituals, whether they want that power or not."
 			],
@@ -1927,6 +1978,7 @@
 			"name": "Runelord",
 			"source": "SoM",
 			"page": 240,
+			"rarity": "rare",
 			"entries": [
 				"You've learned arcane magic following the path of the runelords. You unlock secrets of a chosen school of magic while forsaking lesser schools. You learn the secrets of runic magic, the building blocks of magic. But be warned: you might succumb to sin in your pursuit of power.",
 				"You also learn to use polearms, the signature weapons of the runelords, and can acquire the secrets of the mighty, ancient magic items called {@item aeon stone (generic)||aeon stones}, embedding them into your skin.",
@@ -2029,6 +2081,7 @@
 			"name": "Runescarred",
 			"source": "LOWG",
 			"page": 119,
+			"rarity": "uncommon",
 			"entries": [
 				"The rune magic of Thassilon and its descendant nations has left its mark on your very flesh. As a runescarred, you have an unusually close connection to this ancient magic, which has become a newly emerging field of study for small pockets of interested scholars in both Varisia and New Thassilon."
 			],
@@ -2065,6 +2118,7 @@
 			"name": "Scrollmaster",
 			"source": "LOCG",
 			"page": 113,
+			"rarity": "uncommon",
 			"entries": [
 				"Members who align themselves with the Scrolls branch of the Pathfinder Society are fervent seekers of lore, experts in esoterica, and masters of the wealth of knowledge at the Society's disposal. In addition to maintaining and researching the Society's massive collection of tomes and artifacts, these scholars are also eager to adventure in order to add to the Pathfinder's archives. They take tremendous pride in their ability to thoroughly observe, research, and catalog creatures and events. Members of the Scrolls value knowledge and preparation above strength and cunning, and they work to hone their intellectual skills. As a Scrollmaster, you are an elite member of this arm of the Society."
 			],
@@ -2077,6 +2131,7 @@
 			"name": "Scrounger",
 			"source": "APG",
 			"page": 190,
+			"rarity": "uncommon",
 			"entries": [
 				"You have spent countless hours disassembling and rebuilding complex items to learn how they work, giving you the skill to create just about anything from the most unlikely materials. While your improvised items don't last long, they tend to be just what you need in a pinch, and your enemies find that while they might be able to disarm you, the real challenge is keeping you that way. Locked rooms, diabolical traps, and desperate situations are each their own sort of puzzle to you, and the mundane objects around you are the pieces you use to improvise your own solution."
 			],
@@ -2102,6 +2157,7 @@
 			"name": "Shadowcaster",
 			"source": "SoM",
 			"page": 226,
+			"rarity": "uncommon",
 			"entries": [
 				"The world is full of shadows, but each living creature possesses a form of inner light to ward against that ever-present darkness... all except shadowcasters. By trading away that piece of their spirit, shadowcasters have removed a limiter, allowing them to gain magical power rooted in the darkness; however, this trade also exposes them to otherworldly whispers from the realms of shadow."
 			],
@@ -2219,6 +2275,7 @@
 			"name": "Soulforger",
 			"source": "SoM",
 			"page": 236,
+			"rarity": "uncommon",
 			"entries": [
 				"Your devotion to a cause unifies your soul with an armament tethered to the very essence of your spirit.",
 				{
@@ -2275,6 +2332,7 @@
 			"name": "Spellmaster",
 			"source": "LOCG",
 			"page": 114,
+			"rarity": "uncommon",
 			"entries": [
 				"Those who train under the Master of Spells concern themselves with all matters related to magic. Though not all members of the School of Spells are spellcasters, those who would become Spellmasters of the highest rank and influence have at least some spellcasting capabilities."
 			],
@@ -2287,6 +2345,7 @@
 			"name": "Spellshot",
 			"source": "G&G",
 			"page": 140,
+			"rarity": "uncommon",
 			"entries": [
 				"{@b Rarity:} {@trait Uncommon}",
 				"Spellshots aren't ordinary gunslingers. They come from a tradition of ancient secrets and principles, which they temper with modern innovation and perspective. Spellshots combine magical power into the art of gunplay to create a distinct and mystical way known only to spellshots, enigmatic and unavailable to other gunslingers in the world at large. The first to identify themselves as spellshots tied their magical traditions to the history of the Star Code and the Crowned Regents in Arcadia. Ancient, reclusive crafters known as the Crowned Regents created star guns, the legendary magical firearms that shot white-hot blasts of energy. Wielders of star guns became bound together by the Star Code\u2014a set of cultural expectations that defined how one should behave while using these powerful weapons. You can find more information about star guns, the Crowned Regents, and the Star Code on page 206.",
@@ -2520,6 +2579,7 @@
 			"name": "Staff Acrobat",
 			"source": "EC1",
 			"page": 114,
+			"rarity": "uncommon",
 			"entries": [
 				"You can perform amazing acts in and out of combat when you have a spear, staff, or polearm."
 			],
@@ -2532,6 +2592,7 @@
 			"name": "Sterling Dynamo",
 			"source": "G&G",
 			"page": 52,
+			"rarity": "uncommon",
 			"entries": [
 				"While many people across Golarion use prosthetic devices, you've acquired and outfitted yourself with a particularly advanced combat model of clockwork prosthesis: a piece of cutting edge technology called a sterling dynamo. You know how to maintain your dynamo and how to customize it to suit your needs and style, incorporating any promising new technologies you encounter into its design.",
 				"There's a significant distinction, however, between someone who merely has a sterling dynamo prosthesis and someone like you who is a true sterling dynamo. With their recent invention, people in Absalom and Dongun Hold with access to the technology have begun to adopt sterling dynamos as their prostheses of choice, among the wide variety of amazing options already available in both markets. However, not everyone who chooses to use sterling dynamo technology is a member of the sterling dynamo archetype.",
@@ -2547,6 +2608,7 @@
 			"name": "Student of Perfection",
 			"source": "LOWG",
 			"page": 83,
+			"rarity": "uncommon",
 			"entries": [
 				"You studied martial arts at Jalmeray's Houses of Perfection."
 			],
@@ -2617,6 +2679,7 @@
 			"name": "Swordmaster",
 			"source": "LOCG",
 			"page": 115,
+			"rarity": "uncommon",
 			"entries": [
 				"Though the ultimate goal of the Pathfinder society is to learn, knowledge cannot be spread if those who discover it fail to come back alive. The Master of Swords teaches recruits to survive, to defend other Pathfinders, and to defeat the Society's enemies. The swordmaster embodies these skills, focusing on practicality and ignoring ideals or methods that interfere with their ability to overcome any challenge."
 			],
@@ -2638,6 +2701,7 @@
 			"name": "Trapsmith",
 			"source": "G&G",
 			"page": 52,
+			"rarity": "uncommon",
 			"entries": [
 				"Wielding a wrench or blowtorch, you manufacture snares that whir and tick with delicate precision. Your best work requires the right materials\u2014a glorious set of brass fittings and cogwheels\u2014with which you create snares that are as elegantly lethal as they are subtle. As a trapsmith, you're always improving your snares: adjusting timing, tweaking triggers, and finding new ways to hide them from foes.",
 				"You can select the dedication feat for the trapsmith archetype even if you haven't yet gained three feats from the {@archetype snarecrafter|APG} archetype."
@@ -2651,6 +2715,7 @@
 			"name": "Trick Driver",
 			"source": "G&G",
 			"page": 55,
+			"rarity": "uncommon",
 			"entries": [
 				"While cavaliers follow an old and tired tradition of mounted combat, you take a more modern road. Through aggressive use of vehicles, you roll across the battlefield, taking down your opponents. You go beyond simply operating a vehicle, pushing it to perform stunts that its builders never intended, transforming the vehicle into something much greater than a mere conveyance."
 			],
@@ -2663,6 +2728,7 @@
 			"name": "Turpin Rowe Lumberjack",
 			"source": "EC3",
 			"page": 75,
+			"rarity": "uncommon",
 			"entries": [
 				"You are a feller of trees and a skilled axe wielder, trained in the art of forestry by the hard-working loggers of Turpin Rowe."
 			],
@@ -2675,6 +2741,7 @@
 			"name": "Unexpected Sharpshooter",
 			"source": "G&G",
 			"page": 138,
+			"rarity": "uncommon",
 			"entries": [
 				{
 					"type": "quote",
@@ -2709,6 +2776,7 @@
 			"name": "Vehicle Mechanic",
 			"source": "G&G",
 			"page": 56,
+			"rarity": "uncommon",
 			"entries": [
 				"You have always felt that vehicles are as much works of art as they are means of transportation. It doesn't matter if it's as common as a chariot or as complex as an airship, there's always some aspect of the vehicle you can improve upon. Pilots, drivers, and sailors alike value your expertise, and many seek you out to work on their vehicles. While you can make a great profit working on custom vehicles for wealthy clients, you still keep a vehicle of your own to tinker with as your personal passion project.",
 				"You might be part of a vehicle mechanic union, working with other mechanics and engineers to find fair jobs and support each other's labor. While some vehicle mechanic unions are secular, many realize the benefits of organizing alongside a sympathetic religion, and so they typically adopt the ideals of economically-focused gods like Abadar or deities interested in crafting such as the goddess Brigh\u2014the Whisper in Bronze\u2014the goddess of invention. Whether religious or secular, vehicle mechanic unions take the bonds between fellow union members seriously. While this might mean your character becomes obligated to help a fellow union member who needs your help, it also means you have steadfast allies you can fall back on in your own time of need. In dire straits, such a connection can be worth its weight in gold."
@@ -2722,6 +2790,7 @@
 			"name": "Vigilante",
 			"source": "APG",
 			"page": 196,
+			"rarity": "uncommon",
 			"entries": [
 				"As a vigilante, you have two faces: a public persona, and a secret identity that lets you hide your extralegal actions from polite society. Your secret identity lets you adventure and carry out clandestine missions while keeping the civilians you care about safe. Whatever your purpose\u2014fighting crime, inciting rebellion, sowing chaos\u2014your vigilante identity makes you both hard to pin down and a mysterious, intriguing subject of gossip."
 			],
@@ -2773,6 +2842,7 @@
 			"name": "Wellspring Mage",
 			"source": "SoM",
 			"page": 248,
+			"rarity": "rare",
 			"entries": [
 				"The source of your magic buckles against your control, always pressing to be released.",
 				{
@@ -2988,6 +3058,7 @@
 			"name": "Zephyr Guard",
 			"source": "AoA5",
 			"page": 81,
+			"rarity": "uncommon",
 			"entries": [
 				"You are one of the Zephyr Guard, professional soldiers who protect Katapesh from military threats, economic sabotage, and elite thieves."
 			],
@@ -3000,6 +3071,7 @@
 			"name": "Undead Master",
 			"source": "BotD",
 			"page": 41,
+			"rarity": "uncommon",
 			"entries": [
 				"Not everyone with an interest in the undead raises a vast army of faceless, disposable minions. You prefer to cultivate a more personal relationship with a small number of undead companions, personalized to your needs and expectations. Those companions with minds trust you implicitly; those without are extensions of your will. Perhaps they see you as a teacher or caretaker, shepherding them on the path to peace and passing on, or perhaps they are your protectors, bound to aid you by negotiation and magical spells. Whatever the case, they will fight for and alongside you without question, throwing themselves into danger without hesitation if it will provide a means to your desired end.",
 				"This archetype works well for a necromancer capable of raising undead but isn't exclusive to them. You could be a warrior who befriended an undead, an evil champion granted an undead companion by your deity, or an undead bloodline sorcerer undead are drawn to.",
@@ -3070,6 +3142,7 @@
 			"name": "Hallowed Necromancer",
 			"source": "BotD",
 			"page": 24,
+			"rarity": "uncommon",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -3140,6 +3213,7 @@
 			"name": "Ghost",
 			"source": "BotD",
 			"page": 46,
+			"rarity": "rare",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -3159,6 +3233,7 @@
 			"name": "Ghoul",
 			"source": "BotD",
 			"page": 48,
+			"rarity": "rare",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -3187,6 +3262,7 @@
 			"name": "Lich",
 			"source": "BotD",
 			"page": 50,
+			"rarity": "rare",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -3212,6 +3288,7 @@
 			"name": "Mummy",
 			"source": "BotD",
 			"page": 52,
+			"rarity": "rare",
 			"entries": [
 				"Mummification is a common funereal rite across the breadth of Golarion throughout the ages. Becoming a living mummy\u2014one capable of both motion and thought\u2014is another thing altogether.",
 				"Most of those forced into undeath as mummies are bound to tombs, temples, and vaults as guardians. Some willingly undergo the process, embracing death to live beyond it. These willing mummies become the most powerful of their kind, rising above their brethren like an emperor above their subjects.",
@@ -3225,6 +3302,7 @@
 			"name": "Vampire",
 			"source": "BotD",
 			"page": 58,
+			"rarity": "rare",
 			"entries": [
 				{
 					"type": "pf2-sidebar",
@@ -3245,6 +3323,7 @@
 			"name": "Zombie",
 			"source": "BotD",
 			"page": 60,
+			"rarity": "rare",
 			"entries": [
 				"You are a zombie, a rotting corpse animated by necromantic magic. Although most zombies are mindless brutes, you're a husk zombie, preserved through necromantic rites and alchemical reagents. The process worked especially well on you, and you retained your intelligence and identity to a far greater degree than other husk zombies.",
 				"It's not easy being a corpse. Your body continues to rot and putrefy, and the stench is ever present. Your old self keeps slipping away, more and more as the weeks pass by. Your reflexes have slowed, you're beginning to lose your sense of touch, and your emotions are dulling. As your body continues to decay, so too, does your mind. Your memory's not perfect, and although you haven't noticed any huge gaps or flaws yet, you have a feeling they're there somewhere.",
